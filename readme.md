@@ -26,6 +26,7 @@
 ## FAQs
 
 Q. Credential file?
+<br/>
 Ans: In the usage of the alfred API in the app.py file - I assume you to
 store a credentials file at `bin/creds.json` at project root - which is a JSON
 with following keys
@@ -42,6 +43,7 @@ Read the docs for more information - https://developer.twitter.com/en/docs
 
 
 Q. Will I be implementing more such Twitter APIs?
+<br/>
 Ans: Not really - I just wanted to delete some older tweets from my twitter
 account - I had 500+ old tweets at different times about the video I liked in
 youtube (somehow it was left enabled in youtube app and I did not remember).
